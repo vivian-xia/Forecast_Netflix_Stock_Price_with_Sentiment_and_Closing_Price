@@ -1,1 +1,1 @@
-# Forecast_Netflix_Stock_Price_with_Sentiment_and_Closing_Price
+# Forecast Netflix Stock Price with Sentiment and Closing Price
